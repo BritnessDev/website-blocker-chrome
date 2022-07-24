@@ -1,0 +1,7 @@
+script: 
+  - phantomjs tests/lib/run-jasmine.js tests/test.html
+notifications:
+  email:
+    recipients: tetsuwo.oishi+travis-ci@gmail.com
+    on_success: always # [always|never|change]
+    on_failure: always # [always|never|change]

@@ -1,0 +1,182 @@
+{
+  "ID": {
+    "message": "ko_KR"
+  },
+  "add_block_time": {
+    "message": "차단 시간 입력"
+  },
+  "add_blockthis": {
+    "message": "차단할 곳 입력!"
+  },
+  "add_time_1": {
+    "message": ""
+  },
+  "add_time_2": {
+    "message": ""
+  },
+  "add_time_3": {
+    "message": ""
+  },
+  "applied": {
+    "message": "적용됐습니다!"
+  },
+  "apply": {
+    "message": "적용하기"
+  },
+  "back": {
+    "message": "돌아가기"
+  },
+  "basic_settings": {
+    "message": "기본 설정"
+  },
+  "block_already": {
+    "message": "이 페이지는 이미 차단되어 있습니다. 편집하려면 옵션 페이지에서 수정하세요."
+  },
+  "block_ng": {
+    "message": "이 페이지는 차단될 수 없습니다."
+  },
+  "blocked_disabled": {
+    "message": "차단 기능 비활성화"
+  },
+  "blocked_message": {
+    "message": "이 페이지에 접근할 수 없습니다."
+  },
+  "blocked_title": {
+    "message": "이 페이지는 차단됐습니다."
+  },
+  "bug_report": {
+    "message": "버그 제보하기"
+  },
+  "changelog": {
+    "message": "수정 내역"
+  },
+  "close": {
+    "message": "닫기"
+  },
+  "document": {
+    "message": "문서"
+  },
+  "example": {
+    "message": "예시는 이렇습니다."
+  },
+  "ext_description": {
+    "message": "Website Blocker 는 당신이 일에만 집중할 수 있도록 도와줍니다."
+  },
+  "ext_name": {
+    "message": "Website Blocker (Beta)"
+  },
+  "facebook_page": {
+    "message": "페이스북 페이지"
+  },
+  "font_family": {
+    "message": "NanumGothic, Gulim"
+  },
+  "format": {
+    "message": "형식은 이렇습니다."
+  },
+  "input": {
+    "message": "이곳에 당신이 원하는 설정을 입력하세요."
+  },
+  "message_when_blocked": {
+    "message": "차단되었을 때의 메시지"
+  },
+  "nav_about": {
+    "message": "이 프로그램에 대해"
+  },
+  "nav_blocking": {
+    "message": "웹사이트 차단하기"
+  },
+  "nav_changelog": {
+    "message": "수정 내역"
+  },
+  "nav_function": {
+    "message": "각 기능 상세 설정 (ON/OFF)"
+  },
+  "nav_message": {
+    "message": "차단되었을 때의 메시지"
+  },
+  "nav_password": {
+    "message": "패스워드"
+  },
+  "option_page_link_disabled": {
+    "message": "바로가기 아이콘 지우기"
+  },
+  "options": {
+    "message": "옵션"
+  },
+  "please_support_me": {
+    "message": "개발자 지원하기 (PayPal)"
+  },
+  "popup_page_control_disabled": {
+    "message": "팝업에서 기능제어 비활성화"
+  },
+  "save": {
+    "message": "저장하기"
+  },
+  "save_and_close": {
+    "message": "저장 후 닫기"
+  },
+  "setting": {
+    "message": "설정"
+  },
+  "special_thanks": {
+    "message": "특별히 감사한 분들"
+  },
+  "tell_a_friend": {
+    "message": "친구들에게 프로그램 알리기"
+  },
+  "time_limit_disabled": {
+    "message": "시간 제한 기능 비활성화"
+  },
+  "title_when_blocked": {
+    "message": "차단되었을 때의 타이틀 메시지"
+  },
+  "websites_to_block": {
+    "message": "차단할 웹사이트"
+  },
+  "with_email": {
+    "message": "이메일"
+  },
+  "days_of_week": {
+    "message": "Day's of the week"
+  },
+  "days_of_week_sunday": {
+    "message": "Sunday"
+  },
+  "days_of_week_monday": {
+    "message": "Monday"
+  },
+  "days_of_week_tuesday": {
+    "message": "Tuesday"
+  },
+  "days_of_week_wednesday": {
+    "message": "Wednesday"
+  },
+  "days_of_week_thursday": {
+    "message": "Thursday"
+  },
+  "days_of_week_friday": {
+    "message": "Friday"
+  },
+  "days_of_week_saturday": {
+    "message": "Saturday"
+  },
+  "redirect_when_blocked": {
+    "message": "URL to redirect when blocked"
+  },
+  "enabled_block_function": {
+    "message": "Enable of the block function"
+  },
+  "enabled_time_group_function": {
+    "message": "Enable of the time-group function (ex) 0000-2359 ..."
+  },
+  "enabled_shortcut_link_options_page_function": {
+    "message": "Enable of shortcut link to the options page"
+  },
+  "temporary_unlock_function": {
+    "message": "Temporary unlock with input password"
+  },
+  "enabled_temporary_unlock_function": {
+    "message": "Enable of temporary unlock with input password"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "ID": {
+    "message": "fr"
+  },
+  "add_block_time": {
+    "message": "Heure bloquer"
+  },
+  "add_blockthis": {
+    "message": "Bloquer!"
+  },
+  "add_time_1": {
+    "message": "entre"
+  },
+  "add_time_2": {
+    "message": "et"
+  },
+  "add_time_3": {
+    "message": ""
+  },
+  "applied": {
+    "message": "Appliqué!"
+  },
+  "apply": {
+    "message": "Appliquer"
+  },
+  "back": {
+    "message": "Retour"
+  },
+  "basic_settings": {
+    "message": "Réglages de base"
+  },
+  "block_already": {
+    "message": "Cette page est déjà bloquée. Les paramètres de blocage peuvent être modifiés dans les options."
+  },
+  "block_ng": {
+    "message": "Cette page ne peut pas être bloquée."
+  },
+  "blocked_disabled": {
+    "message": "Désactiver la fonction de blocage."
+  },
+  "blocked_message": {
+    "message": "Impossible d'accéder à cette page."
+  },
+  "blocked_title": {
+    "message": "Cette page est bloquée."
+  },
+  "bug_report": {
+    "message": "Signaler un defaut "
+  },
+  "changelog": {
+    "message": "Historique des révisions"
+  },
+  "close": {
+    "message": "Fermer"
+  },
+  "document": {
+    "message": "Document"
+  },
+  "example": {
+    "message": "Exemple"
+  },
+  "ext_description": {
+    "message": "Website Blocker est utile lorsque vous voulez vous concentrer sur un travail."
+  },
+  "ext_name": {
+    "message": "Website Blocker (Beta)"
+  },
+  "facebook_page": {
+    "message": "Page Facebook"
+  },
+  "font_family": {
+    "message": "Arial, Helvetica, Verdana, sans-serif"
+  },
+  "format": {
+    "message": "Format"
+  },
+  "input": {
+    "message": "Input"
+  },
+  "message_when_blocked": {
+    "message": "Message quand il sera bloqué"
+  },
+  "nav_about": {
+    "message": "A propos de cette extension"
+  },
+  "nav_blocking": {
+    "message": "Bloquer du site Web"
+  },
+  "nav_changelog": {
+    "message": "Historique des révisions"
+  },
+  "nav_function": {
+    "message": "Activer/Désactiver chaque fonctions"
+  },
+  "nav_message": {
+    "message": "Messages quand t'il sera bloqué "
+  },
+  "nav_password": {
+    "message": "Mot de passe"
+  },
+  "option_page_link_disabled": {
+    "message": "Désactiver le lien de raccourci vers la page des options."
+  },
+  "options": {
+    "message": "Options"
+  },
+  "please_support_me": {
+    "message": "Soutenez moi (PayPal)"
+  },
+  "popup_page_control_disabled": {
+    "message": "Désactivé chaque contrôle de fonction de la popup."
+  },
+  "save": {
+    "message": "Sauver"
+  },
+  "save_and_close": {
+    "message": "Sauver et fermer"
+  },
+  "setting": {
+    "message": "Option"
+  },
+  "special_thanks": {
+    "message": "Remerciement spécial"
+  },
+  "tell_a_friend": {
+    "message": "Informer un ami"
+  },
+  "time_limit_disabled": {
+    "message": "Désactivation de la fonction de limite de temps."
+  },
+  "title_when_blocked": {
+    "message": "Titre quand t'il sera bloquer"
+  },
+  "websites_to_block": {
+    "message": "Sites internet à bloquer"
+  },
+  "with_email": {
+    "message": "par email"
+  },
+  "days_of_week": {
+    "message": "Jour de la semaine"
+  },
+  "days_of_week_sunday": {
+    "message": "Dimanche"
+  },
+  "days_of_week_monday": {
+    "message": "Lundi"
+  },
+  "days_of_week_tuesday": {
+    "message": "Mardi"
+  },
+  "days_of_week_wednesday": {
+    "message": "Mercredi"
+  },
+  "days_of_week_thursday": {
+    "message": "Jeudi"
+  },
+  "days_of_week_friday": {
+    "message": "Vendredi"
+  },
+  "days_of_week_saturday": {
+    "message": "Samedi"
+  },
+  "redirect_when_blocked": {
+    "message": "La redirection de l'URL quand t'il sera bloqué."
+  },
+  "enabled_block_function": {
+    "message": "Activer lorsque la fonction sera bloqué."
+  },
+  "enabled_time_group_function": {
+    "message": "Activer la fonction time-group (ex) 0000-2359 ..."
+  },
+  "enabled_shortcut_link_options_page_function": {
+    "message": "Activer les lien de racrousie lors vers la page d'option."
+  },
+  "temporary_unlock_function": {
+    "message": "Temporairement débloquer avec le input mot de passe."
+  },
+  "enabled_temporary_unlock_function": {
+    "message": "Activer temporairement avec le input mot de passe."
+  }
+}

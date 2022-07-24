@@ -1,0 +1,182 @@
+{
+  "ID": {
+    "message": "si"
+  },
+  "add_block_time": {
+    "message": "වාරණ කාලය"
+  },
+  "add_blockthis": {
+    "message": "මෙය අවහිර කරන්න!"
+  },
+  "add_time_1": {
+    "message": "අතර"
+  },
+  "add_time_2": {
+    "message": "සහ"
+  },
+  "add_time_3": {
+    "message": ""
+  },
+  "applied": {
+    "message": "යොමු කරන ලදී!"
+  },
+  "apply": {
+    "message": "යොමු කරන්න"
+  },
+  "back": {
+    "message": "ආපසු"
+  },
+  "basic_settings": {
+    "message": "මුලික සැකසුම්"
+  },
+  "block_already": {
+    "message": "මෙම පිටුව දැනටම අක්‍රිය කර ඇත. විකල්ප පිටුවට යන්න."
+  },
+  "block_ng": {
+    "message": "මෙම පිටුව අවහිර කල නොහැක."
+  },
+  "blocked_disabled": {
+    "message": "අවහිර කරන ක්‍රියාවලිය අක්‍රිය කර ඇත."
+  },
+  "blocked_message": {
+    "message": "මෙම't පිටුව භාවිතා කල හැක."
+  },
+  "blocked_title": {
+    "message": "මෙම පිටුව අවහිර කර ඇත."
+  },
+  "bug_report": {
+    "message": "දෝෂ වාර්තාව"
+  },
+  "changelog": {
+    "message": "සංශෝධන ඉතිහාසය"
+  },
+  "close": {
+    "message": "වසන්න"
+  },
+  "document": {
+    "message": "ලියවිල්ල"
+  },
+  "example": {
+    "message": "උදාහරණ"
+  },
+  "ext_description": {
+    "message": "Website Blocker ඔබට ප්‍රයෝජනවත් වන්නේ ඔබ යම්කිසි කාර්යක නිරිත වන විටදීය."
+  },
+  "ext_name": {
+    "message": "Website Blocker (Beta)"
+  },
+  "facebook_page": {
+    "message": "Facebook පිටුව"
+  },
+  "font_family": {
+    "message": "Arial, Helvetica, Verdana, sans-serif"
+  },
+  "format": {
+    "message": "ආකෘතිය"
+  },
+  "input": {
+    "message": "ආදාන"
+  },
+  "message_when_blocked": {
+    "message": "අවහිර කරන පණිවිඩය"
+  },
+  "nav_about": {
+    "message": "About දිගුව ගැන"
+  },
+  "nav_blocking": {
+    "message": "අවහිර කරමින්"
+  },
+  "nav_changelog": {
+    "message": "සංශෝදන අතීතය"
+  },
+  "nav_function": {
+    "message": "අක්‍රිය/සක්‍රිය කරන්න"
+  },
+  "nav_message": {
+    "message": "අවහිර කර ඇති විට පණිවිඩ"
+  },
+  "nav_password": {
+    "message": "මුරපදය"
+  },
+  "option_page_link_disabled": {
+    "message": "කෙටි යෙදුම අක්‍රිය කර ඇත."
+  },
+  "options": {
+    "message": "විකල්ප"
+  },
+  "please_support_me": {
+    "message": "මට උදව් කරන්න! (PayPal)"
+  },
+  "popup_page_control_disabled": {
+    "message": "මතුවන පිටුවේ ක්‍රියාවලි අවහිර කර ඇත."
+  },
+  "save": {
+    "message": "සුරකින්න"
+  },
+  "save_and_close": {
+    "message": "සුරැකීමෙන් පසු වසන්න"
+  },
+  "setting": {
+    "message": "සැකසුම්"
+  },
+  "special_thanks": {
+    "message": "විශේෂ ස්තුතිය"
+  },
+  "tell_a_friend": {
+    "message": "මිතුරෙකුට කියන්න"
+  },
+  "time_limit_disabled": {
+    "message": "කාල සීමා ක්‍රියාවලිය අවහිර කර ඇත."
+  },
+  "title_when_blocked": {
+    "message": "අවහිර කර ඇති විට මාතෘකාව"
+  },
+  "websites_to_block": {
+    "message": "අවහිර කිරීමට ඇති පිටු"
+  },
+  "with_email": {
+    "message": "ඊ තැපෑල-සමගින්"
+  },
+  "days_of_week": {
+    "message": "සතියෙහි දින"
+  },
+  "days_of_week_sunday": {
+    "message": "ඉරිදා"
+  },
+  "days_of_week_monday": {
+    "message": "සඳුදා"
+  },
+  "days_of_week_tuesday": {
+    "message": "අඟහරුවාදා"
+  },
+  "days_of_week_wednesday": {
+    "message": "බදාදා"
+  },
+  "days_of_week_thursday": {
+    "message": "බ්‍රහස්පතින්දා"
+  },
+  "days_of_week_friday": {
+    "message": "සිකුරාදා"
+  },
+  "days_of_week_saturday": {
+    "message": "සෙනසුරාදා"
+  },
+  "redirect_when_blocked": {
+    "message": "URL to redirect when blocked"
+  },
+  "enabled_block_function": {
+    "message": "Enable of the block function"
+  },
+  "enabled_time_group_function": {
+    "message": "Enable of the time-group function (ex) 0000-2359 ..."
+  },
+  "enabled_shortcut_link_options_page_function": {
+    "message": "Enable of shortcut link to the options page"
+  },
+  "temporary_unlock_function": {
+    "message": "Temporary unlock with input password"
+  },
+  "enabled_temporary_unlock_function": {
+    "message": "Enable of temporary unlock with input password"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "ID": {
+    "message": "ja"
+  },
+  "add_block_time": {
+    "message": "ブロックする時間"
+  },
+  "add_blockthis": {
+    "message": "これでブロックする！"
+  },
+  "add_time_1": {
+    "message": ""
+  },
+  "add_time_2": {
+    "message": "から"
+  },
+  "add_time_3": {
+    "message": "まで"
+  },
+  "applied": {
+    "message": "適用しました。"
+  },
+  "apply": {
+    "message": "適用"
+  },
+  "back": {
+    "message": "戻る"
+  },
+  "basic_settings": {
+    "message": "基本設定"
+  },
+  "block_already": {
+    "message": "このページは既にブロックリストに入っています。修正は「オプション」からおこなってください。"
+  },
+  "block_ng": {
+    "message": "このページはブロックできません。"
+  },
+  "blocked_disabled": {
+    "message": "ブロック機能を無効"
+  },
+  "blocked_message": {
+    "message": "このページはブロックリストに入っているためアクセスできません。"
+  },
+  "blocked_title": {
+    "message": "このページはブロックされています"
+  },
+  "bug_report": {
+    "message": "バグ報告"
+  },
+  "changelog": {
+    "message": "改訂履歴"
+  },
+  "close": {
+    "message": "閉じる"
+  },
+  "document": {
+    "message": "ドキュメント"
+  },
+  "example": {
+    "message": "入力例"
+  },
+  "ext_description": {
+    "message": "何かの作業に集中するとき「ある時間だけ見たくないサイト」を登録しておけば警告を出せます。"
+  },
+  "ext_name": {
+    "message": "ウェブサイトブロッカー (Beta)"
+  },
+  "facebook_page": {
+    "message": "Facebookページへ"
+  },
+  "font_family": {
+    "message": "ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Meiryo, Arial, sans-serif"
+  },
+  "format": {
+    "message": "フォーマット"
+  },
+  "input": {
+    "message": "入力欄"
+  },
+  "message_when_blocked": {
+    "message": "ブロック時のメッセージ"
+  },
+  "nav_about": {
+    "message": "この拡張機能について"
+  },
+  "nav_blocking": {
+    "message": "ブロックしているサイト"
+  },
+  "nav_changelog": {
+    "message": "改訂履歴"
+  },
+  "nav_function": {
+    "message": "各機能のON/OFF"
+  },
+  "nav_message": {
+    "message": "ブロック時のメッセージ"
+  },
+  "nav_password": {
+    "message": "パスワード"
+  },
+  "option_page_link_disabled": {
+    "message": "設定ページへのリンクを無効"
+  },
+  "options": {
+    "message": "オプション"
+  },
+  "please_support_me": {
+    "message": "応援する（PayPal）"
+  },
+  "popup_page_control_disabled": {
+    "message": "ポップアップからの各機能制御を無効"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "save_and_close": {
+    "message": "保存して閉じる"
+  },
+  "setting": {
+    "message": "設定"
+  },
+  "special_thanks": {
+    "message": "スペシャルサンクス"
+  },
+  "tell_a_friend": {
+    "message": "友だちに教える"
+  },
+  "time_limit_disabled": {
+    "message": "時間設定を無効"
+  },
+  "title_when_blocked": {
+    "message": "ブロック時のタイトル"
+  },
+  "websites_to_block": {
+    "message": "ブロックするWebサイト"
+  },
+  "with_email": {
+    "message": "E-Mail で共有する"
+  },
+  "days_of_week": {
+    "message": "曜日設定"
+  },
+  "days_of_week_sunday": {
+    "message": "日曜日"
+  },
+  "days_of_week_monday": {
+    "message": "月曜日"
+  },
+  "days_of_week_tuesday": {
+    "message": "火曜日"
+  },
+  "days_of_week_wednesday": {
+    "message": "水曜日"
+  },
+  "days_of_week_thursday": {
+    "message": "木曜日"
+  },
+  "days_of_week_friday": {
+    "message": "金曜日"
+  },
+  "days_of_week_saturday": {
+    "message": "土曜日"
+  },
+  "redirect_when_blocked": {
+    "message": "ブロック時のリダイレクト先 URL"
+  },
+  "enabled_block_function": {
+    "message": "ブロック機能を有効化"
+  },
+  "enabled_time_group_function": {
+    "message": "時間指定機能を有効化"
+  },
+  "enabled_shortcut_link_options_page_function": {
+    "message": "オプションページへのショートカットリンクを有効化"
+  },
+  "temporary_unlock_function": {
+    "message": "パスワード入力で一時的にロック解除"
+  },
+  "enabled_temporary_unlock_function": {
+    "message": "パスワード入力で一時的にロック解除を有効化"
+  }
+}

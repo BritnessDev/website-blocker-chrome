@@ -1,0 +1,182 @@
+{
+  "ID": {
+    "message": "pt_BR"
+  },
+  "add_block_time": {
+    "message": "Tempo de bloqueio. "
+  },
+  "add_blockthis": {
+    "message": "Bloqueie isso!"
+  },
+  "add_time_1": {
+    "message": "entre"
+  },
+  "add_time_2": {
+    "message": "e"
+  },
+  "add_time_3": {
+    "message": ""
+  },
+  "applied": {
+    "message": "Aplicado!"
+  },
+  "apply": {
+    "message": "Aplicar"
+  },
+  "back": {
+    "message": "Voltar"
+  },
+  "basic_settings": {
+    "message": "Configurações básicas"
+  },
+  "block_already": {
+    "message": "Esta página já está bloqueada. Este bloqueio veio da página [Options]."
+  },
+  "block_ng": {
+    "message": "Esta página não pode ser bloqueada. "
+  },
+  "blocked_disabled": {
+    "message": "Desabilite a função de bloqueio."
+  },
+  "blocked_message": {
+    "message": "Não pode acessar esta página. "
+  },
+  "blocked_title": {
+    "message": "A página está bloqueada. "
+  },
+  "bug_report": {
+    "message": "Bug relatório"
+  },
+  "changelog": {
+    "message": "Histórico de revisões"
+  },
+  "close": {
+    "message": "Fechar"
+  },
+  "document": {
+    "message": "Documento"
+  },
+  "example": {
+    "message": "Exemplo"
+  },
+  "ext_description": {
+    "message": "Website Blocker é útil quando você deseja se concentrar no trabalho. "
+  },
+  "ext_name": {
+    "message": "Website Blocker (Beta)"
+  },
+  "facebook_page": {
+    "message": "Página no Facebook"
+  },
+  "font_family": {
+    "message": "Arial, Helvetica, Verdana, sans-serif"
+  },
+  "format": {
+    "message": "Formato"
+  },
+  "input": {
+    "message": "Entrada"
+  },
+  "message_when_blocked": {
+    "message": "Mensagem quando bloquear"
+  },
+  "nav_about": {
+    "message": "Sobre esta extensão"
+  },
+  "nav_blocking": {
+    "message": "Bloqueando site"
+  },
+  "nav_changelog": {
+    "message": "Histórico da Revisão"
+  },
+  "nav_function": {
+    "message": "ON/OFF para cada função"
+  },
+  "nav_message": {
+    "message": "Mensagens quando bloqueado"
+  },
+  "nav_password": {
+    "message": "Senha"
+  },
+  "option_page_link_disabled": {
+    "message": "Onemogočeno za povezavo bližnjico do strani z možnostmi."
+  },
+  "options": {
+    "message": "Opções"
+  },
+  "please_support_me": {
+    "message": "Prosimo, da me podpira! (PayPal)"
+  },
+  "popup_page_control_disabled": {
+    "message": "Onemogočeno vsake funkcije nadzora iz pojavnega strani."
+  },
+  "save": {
+    "message": "Salvar "
+  },
+  "save_and_close": {
+    "message": "Salvar e fechar"
+  },
+  "setting": {
+    "message": "Configurações"
+  },
+  "special_thanks": {
+    "message": "Posebna zahvala"
+  },
+  "tell_a_friend": {
+    "message": "Mandar para um amigo"
+  },
+  "time_limit_disabled": {
+    "message": "Onemogoči funkcije roku"
+  },
+  "title_when_blocked": {
+    "message": "Título quando bloqueado"
+  },
+  "websites_to_block": {
+    "message": "Sites para bloquear"
+  },
+  "with_email": {
+    "message": "com E-Mail"
+  },
+  "days_of_week": {
+    "message": "Dias da semana"
+  },
+  "days_of_week_sunday": {
+    "message": "Domingo"
+  },
+  "days_of_week_monday": {
+    "message": "Segunda-feira"
+  },
+  "days_of_week_tuesday": {
+    "message": "Terça-feira"
+  },
+  "days_of_week_wednesday": {
+    "message": "Quarta-feira"
+  },
+  "days_of_week_thursday": {
+    "message": "Quinta-feira"
+  },
+  "days_of_week_friday": {
+    "message": "Sexta-feira"
+  },
+  "days_of_week_saturday": {
+    "message": "Sábado"
+  },
+  "redirect_when_blocked": {
+    "message": "URL to redirect when blocked"
+  },
+  "enabled_block_function": {
+    "message": "Enable of the block function"
+  },
+  "enabled_time_group_function": {
+    "message": "Enable of the time-group function (ex) 0000-2359 ..."
+  },
+  "enabled_shortcut_link_options_page_function": {
+    "message": "Enable of shortcut link to the options page"
+  },
+  "temporary_unlock_function": {
+    "message": "Temporary unlock with input password"
+  },
+  "enabled_temporary_unlock_function": {
+    "message": "Enable of temporary unlock with input password"
+  }
+}
